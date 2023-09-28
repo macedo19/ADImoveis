@@ -1,0 +1,5 @@
+status;finalidade;tipo;dormitorios;quartos;cidade;cep;endereco;numero;complemento;bairro;estado;metragem;areaterreno;area_total;area_util;garagem;idade;condominio;valorvenda;iptu;promocao;dataregistro;condominiofechado;zoneamento;ImovelEntregue;datacadastro;dataupdate;Andar;valor_total
+Disponível;Residencial;Casa;2;2;Contenda;83730000;Rua Emilio Ernest Nichele;310;;Jardim Planalto;PR;40.32;60.59;40.32;40.32;1;12;Residencial Napoli X;135000;0.0;N;2023-09-27T00:10:26.800;N;Z;0;2023-05-16T11:52:37.110;;0;135000.0
+Disponível;Residencial;Casa;3;3;Contenda;83730000;Rua Matias Cordeiro;92;;Jardim Cionek;PR;70.0;613.0;70.0;70.0;3;0;;470000;0.0;N;2023-09-27T00:10:26.800;N;Z;0;2023-03-06T15:45:22.803;;0;470000.0
+Disponível;Residencial;Casa;3;3;Contenda;83730000;Rua Carlito Rudex;224;;Jardim Leonidas Baumel;PR;84.0;44.67;84.0;84.0;1;1;;630000;337.48;N;2023-09-27T00:10:26.800;N;zr;0;2023-09-05T11:34:43.660;;0;630337.48
+Vendido;Residencial;Casa;2;2;Contenda;83730000;Rua Emilio Ernest Nichele;123;casa;Jardim Planalto;PR;63.0;118.0;63.0;63.0;0;0;;135000;0.0;N;2023-09-27T00:10:26.800;S;zr2;0;2023-09-25T10:41:30.663;;0;135000.0
